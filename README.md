@@ -1,1 +1,1 @@
-# scripts
+# CentOS7 scripts
